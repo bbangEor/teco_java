@@ -1,5 +1,6 @@
 package basic.ch09;
 
+
 public class Bus {
 	
 	int busNumber;
