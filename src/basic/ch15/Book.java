@@ -32,6 +32,7 @@ public class Book {
 		System.out.println("제목 :" + title);
 		System.out.println("저자 : " + author);
 	}
+	//setter
 	
 	
 }
