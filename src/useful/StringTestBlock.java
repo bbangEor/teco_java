@@ -1,6 +1,6 @@
 package useful;
 
-public class StringTextBlock {
+public class StringTestBlock {
 
 	public static void main(String[] args) {
 		// """ 찍고 한줄 내리기
